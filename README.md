@@ -14,6 +14,8 @@ Apaixonado por tecnologia e sempre em busca de evolução profissional.
 
 ## 🌐 Onde me encontrar  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-vieiraa98/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mv457925@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theusvieiraaa)
 
 ---
 
@@ -24,4 +26,6 @@ Apaixonado por tecnologia e sempre em busca de evolução profissional.
 - Sempre buscando aprender e crescer na área de tecnologia  
 
 ---
-
+## 📊 Estatísticas do GitHub  
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Vieira-CM&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Vieira-CM&layout=compact&theme=radical)
